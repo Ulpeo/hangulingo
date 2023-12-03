@@ -12,11 +12,7 @@ print("Top players :")
 for i in range(min(3, len(players))):
     print(f"{players[i][0]}, score: {players[i][1]}")
 
-
-
 option = int(input("\nEnter 1 to start a game\n 2 to resume a game\n 3 to add a verb\n"))
-
-
 
 if option == 1:
     pseudo = input("enter your pseudo")
