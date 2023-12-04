@@ -1,5 +1,7 @@
-aleks 200
 tom 500
 patrick 120
 thomas 40
 alice 325
+aleks 202
+emma 2
+amanda 5
